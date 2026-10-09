@@ -1,0 +1,6 @@
+{
+  "name": "JEE Syllabus Tracker",
+  "description": "Comprehensive JEE Main & Advanced Physics, Chemistry, and Mathematics syllabus tracker with chapter checklists, substituent topics, and daily progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
